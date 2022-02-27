@@ -5,3 +5,8 @@
 
 ## 30 Days of code
 
+|  | Days |  Challange Name | Solution | HackerRank Link |
+|--|--|--|--|--|
+|  | 0 | Hello World |   | [HackerRank Link](https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true) |
+
+
